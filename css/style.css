@@ -1,0 +1,57 @@
+body {    
+    background-color: #08161e;
+    color:azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-6 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+
+.img_size {
+}
+.title_photo {
+    text-align: center;
+    margin-left: 80px;
+}
+
+.profileIMG{
+    background: url(../image/profileIMG.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 560px;
+    height: 560px;
+}
+.item2{
+    background-size: 100%;
+    width: 560px;
+    height: 560px;
+    background: url(../image/item2.png) no-repeat center center;
+}
+.item3{
+    background-size: 100%;
+    width: 560px;
+    height: 560px;
+    background: url(../image/item3.png) no-repeat center center;
+}
+.nav_logo{
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 54px;
+    height: 50px;
+}
