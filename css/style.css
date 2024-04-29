@@ -15,17 +15,29 @@ body {
 .container {
     margin-top: 30px;
 }
-.row {
-}
-.col-6 {
-}
-.col-3.nav_logo {
-}
-.col-9 {
+
+#myButton {
+    border: none;
+    width: 128px;
+    height: 64px;
+    background-color: aquamarine;
+    color: #222;
+    font-weight: bold;
 }
 
-.img_size {
+.center-text{
+    text-align: center;
 }
+.demoIMG{
+    margin-top: 40px;
+    width: 800px;
+    height: 560px;
+    align-self: center;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 .title_photo {
     text-align: center;
     margin-left: 80px;
