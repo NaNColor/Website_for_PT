@@ -67,3 +67,55 @@ body {
     width: 54px;
     height: 50px;
 }
+
+
+.login-page {
+    width: 520px;
+    outline: 0;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+  }
+input{
+    border: none;
+    outline: none;
+}
+.form__reg {
+    outline: 0;
+    background: #f2f2f2;
+    width: 480;
+    border: 0;
+    padding: 15px;
+    justify-content: center;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+.form__post{
+    outline: 0;
+    background: #f2f2f2;
+    width: 240;
+    border: 0;
+    padding: 15px;
+    margin-bottom: 16px;
+    justify-content: center;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+
+.btn__reg {
+    outline: 0;
+    background: aquamarine;
+    width: 264;
+    border: 0;
+    padding: 15px;
+    margin-top: 24px;
+    color: #222;
+    font-size: 14px;
+  }
+.btn__reg:hover,.btn__reg:active,.btn__reg:focus {
+    background: #43A047;
+  }
+.text-left{
+    padding: 4px;
+    margin-top: 8px;
+}
